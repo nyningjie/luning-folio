@@ -57,7 +57,7 @@ My current work focuses on how urban residents use public open spaces across the
   </tr>
   <tr style="border:none;">
     <td style="border:none; white-space:nowrap; padding-right:1.5em; vertical-align:top; color:#888;">2012–2016</td>
-    <td style="border:none;">BSc in Geographic Information Sciences<br>Minor: Applied Psychology<br><span style="color:#888;">East China Normal University, China</span></td>
+    <td style="border:none;">BSc in Geographic Information Sciences<br>BSc in Applied Psychology (minor degree)<br><span style="color:#888;">East China Normal University, China</span></td>
     
   </tr>
 </table>
