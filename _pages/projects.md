@@ -2,7 +2,7 @@
 layout: page
 title: Work & Study
 permalink: /work-and-study/
-nav: true
+nav: false
 nav_order: 1
 ---
 
