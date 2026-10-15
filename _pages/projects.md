@@ -38,3 +38,4 @@ Developed methods for analysing crowd behaviour and tourist movement in urban op
 **2024–present · University of Glasgow**
 
 Part of Work Stream 3 of the [GALLANT](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/) (Glasgow As a Living Lab Accelerating Novel Transformation) project. Using multi-source data to develop local indicators that assess Glasgow's current sustainability across environmental, social, and urban dimensions.
+
