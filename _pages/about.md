@@ -27,7 +27,7 @@ latest_posts:
 
 I am a quantitative human geographer and research associate at the [Urban Big Data Centre](https://www.ubdc.ac.uk/), University of Glasgow. My research uses large-scale mobility data — mobile phone app data, GPS tracks, and Wi-Fi signals — to understand how people move through and use urban spaces, with applications in public health, greenspace planning, and sustainable urban development.
 
-My current work focuses on how urban residents use public open spaces across the UK. My research interests also include the landscape of gambling venues (geographies of gambling) and their impacts, and building localised doughnut economics models to assess urban sustainable development.
+My current work focuses on how urban residents use public open spaces across the UK. My research interests also include the landscape of gambling venues  and their impacts, and building localised doughnut economics models to assess urban sustainable development.
 
 ---
 
