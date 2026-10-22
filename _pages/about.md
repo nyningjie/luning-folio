@@ -25,9 +25,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a quantitative human geographer and a Geographic Information Systems (GIS) scientist. My research uses large-scale mobility data — mobile phone app data, GPS tracks, and Wi-Fi signals — to understand how people move through and use urban spaces, with applications in public health, greenspace planning, and sustainable urban development.
+I am a quantitative human geographer and a Geographic Information Systems (GIS) scientist. My research uses emerging smart data — mobile app data, GPS tracks, Wi-Fi signals — to understand how people move through and use spaces in cities, with applications in urban planning, public health, and sustainable urban development. My current work focuses on understanding how urban residents use public cultural and heritage spaces across the UK.
 
-My current work focuses on how urban residents use public open spaces across the UK. My research interests also include the landscape of gambling venues  and their impacts, and building localised doughnut economics models to assess urban sustainable development.
+My research interests also include mapping the landscape of British gambling venues and their impacts, and building localised indicators to assess cities’ sustainable development.
 
 ---
 
