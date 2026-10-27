@@ -2,7 +2,6 @@
 layout: page
 title: Wi-Fi Sensing & Tourist Mobility
 description: Understanding crowd behaviour and tourist movement in urban tourism-oriented community using Wi-Fi probe data
-img: assets/img/shichahai.jpg
 importance: 4
 period: 2016–2023
 ---
