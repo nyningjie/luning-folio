@@ -29,7 +29,9 @@ My research interests also include mapping the landscape of British gambling ven
 
 ---
 
-#### Experience
+<section class="home-section">
+<h2>Experience</h2>
+</section>
 
 <table style="border:none; width:100%;">
   <tr style="border:none;">
@@ -42,7 +44,9 @@ My research interests also include mapping the landscape of British gambling ven
   </tr>
 </table>
 
-#### Education
+<section class="home-section">
+<h2>Education</h2>
+</section>
 
 <table style="border:none; width:100%;">
   <tr style="border:none;">
