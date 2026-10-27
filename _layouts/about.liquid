@@ -6,14 +6,13 @@ layout: default
   contact links), short bio, research, selected publications, news.
 {% endcomment %}
 <div class="home">
-  <section class="intro">
+    <section class="intro">
     {% if page.profile.image %}
       <img
         class="intro-photo"
         src="{{ page.profile.image | prepend: 'assets/img/' | relative_url }}"
         alt="Portrait of {{ site.first_name }} {{ site.last_name }}"
-        width="800"
-        height="1000"
+        style="max-width: 240px; height: auto;"
       >
     {% endif %}
     <div>
@@ -21,6 +20,9 @@ layout: default
       <p class="intro-role">{{ page.subtitle }}</p>
       <p class="intro-links">
         <a href="mailto:{{ site.data.socials.email }}">{{ site.data.socials.email }}</a>
+        {% if site.data.socials.scholar_userid %}
+          <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">Google Scholar</a>
+        {% endif %}
         <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}">LinkedIn</a>
         <a href="{{ site.data.socials.cv_pdf | relative_url }}">CV (PDF)</a>
       </p>
