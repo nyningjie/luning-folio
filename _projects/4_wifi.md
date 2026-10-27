@@ -27,5 +27,5 @@ Working from this dataset, we addressed a series of methodological and substanti
 #### Outputs
 
 <div class="publications">
-{% bibliography --group_by none --query @*[key=li2024identifying || key=li2023spacetime || key=li2021contextualizing || key=li2021wifi] %}
+{% bibliography --group_by none --query @*[key=li2024identifying || key=li2023spacetime || key=li2021contextualizing || key=li2021wifi || key=wang2019modified || key=liu2021pedestrian] %}
 </div>
