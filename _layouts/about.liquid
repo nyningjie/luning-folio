@@ -3,7 +3,7 @@ layout: default
 ---
 {% comment %}
   Local override of al_folio_core's about layout: intro (photo, name, role,
-  contact links), short bio, research, selected publications, news.
+  contact links), short bio, research, selected publications, published datasets.
 {% endcomment %}
 <div class="home">
     <section class="intro">
@@ -28,22 +28,39 @@ layout: default
       </p>
     </div>
   </section>
-
+ 
   <section class="bio">{{ content }}</section>
-
+ 
   <section class="home-section">
     <h2><a href="{{ '/research/' | relative_url }}">Research</a></h2>
     {% include research_list.liquid %}
   </section>
-
+ 
   <section class="home-section">
     <h2><a href="{{ '/publications/' | relative_url }}">Selected publications</a></h2>
     <div class="publications">{% bibliography --group_by none --query @*[selected=true]* %}</div>
     <p class="section-more"><a href="{{ '/publications/' | relative_url }}">All publications</a></p>
   </section>
-
+ 
   <section class="home-section">
-    <h2><a href="{{ '/news/' | relative_url }}">News</a></h2>
-    {% include news_list.liquid limit=5 %}
+    <h2>Published datasets</h2>
+    <ul class="datasets-list">
+      <li>
+        Li, L., &amp; Sinclair, M. (2026). <strong>H3 Mobile Mobility Dataset for 55 major UK cities (2017–2024)</strong> [Data Collection]. University of Glasgow.
+        <a href="https://doi.org/10.5525/gla.researchdata.2165" target="_blank">10.5525/gla.researchdata.2165</a>.
+        <em>Restricted access; non-commercial academic research only.</em>
+      </li>
+      <li>
+        Li, L., &amp; Sinclair, M. (2026). <strong>Home locations of mobile users for 55 major UK cities (2017–2024)</strong> [Data Collection]. University of Glasgow.
+        <a href="https://doi.org/10.5525/gla.researchdata.2164" target="_blank">10.5525/gla.researchdata.2164</a>.
+        <em>Restricted access; non-commercial academic research only.</em>
+      </li>
+      <li>
+        Li, L., &amp; Tranos, E. (2026). <strong>Gambling Shop POI Dataset for Great Britain, 2014–2023</strong> [Data Collection]. Colchester, Essex: UK Data Service.
+        <a href="https://doi.org/10.5255/UKDA-SN-858518" target="_blank">10.5255/UKDA-SN-858518</a>.
+        <em>Dataset underpinning the associated article published in Annals of the American Association of Geographers.</em>
+      </li>
+    </ul>
   </section>
 </div>
+ 
