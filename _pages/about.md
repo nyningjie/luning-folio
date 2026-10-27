@@ -12,8 +12,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><a href="mailto:Luning.Li@glasgow.ac.uk">Luning.Li@glasgow.ac.uk</a></p>
-    <p><a href="https://scholar.google.com/citations?user=ihfC05kAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/luning-li-567652295">LinkedIn</a> &nbsp;·&nbsp; <a href="/assets/Luning_Li_CV.pdf">CV (PDF)</a></p>
+    <p><a href="mailto:Luning.Li@glasgow.ac.uk">Luning.Li@glasgow.ac.uk</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=ihfC05kAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/luning-li-567652295">LinkedIn</a> &nbsp;·&nbsp; <a href="/assets/Luning_Li_CV.pdf">CV (PDF)</a></p>
 
 selected_papers: true
 social: false
