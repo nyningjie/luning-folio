@@ -14,7 +14,7 @@ This research is conducted at the Urban Big Data Centre, University of Glasgow, 
 
 - Demonstrated the validity of mobile phone app data as a measure of urban park usage, using two independent MPA datasets from the Glasgow City Region over a three-year period to assess reliability and cross-dataset consistency ([Li et al., 2025](#))
 - Conducted a multi-city study across 486 parks in Birmingham, Glasgow, Edinburgh, Manchester and Bristol, using Negative Binomial models to show that park quality explains substantial variation in visitation — providing scalable, repeatable evidence for thriving cities agendas ([Li et al., 2026](#))
-- Compiled and published two large-scale mobility datasets: the **H3 Mobile Mobility Dataset** and **Home Locations Dataset** for 55 major UK cities (2017–2024), archived at the University of Glasgow
+- Compiled and published two large-scale mobility datasets archived at the University of Glasgow: the [**H3 Mobile Mobility Dataset for 55 major UK cities (2017–2024)**](https://doi.org/10.5525/gla.researchdata.2165) and [**Home Locations of Mobile Users for 55 major UK cities (2017–2024)**](https://doi.org/10.5525/gla.researchdata.2164) (Li & Sinclair, 2026; restricted access, non-commercial academic research only)
 
 #### Outputs
 
